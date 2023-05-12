@@ -3,7 +3,7 @@ package view;
 public class Main {
 	public static void main(String[] args) {
 		
-		int num = 1231123;
+		int num = 245321;
 		int digitos = recursivaDigitos(num);
 		System.out.println(digitos);
 		
